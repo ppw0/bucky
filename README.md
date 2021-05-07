@@ -3,4 +3,4 @@ an attempt to 'fix' the code presented in a certain Java game development tutori
 
 The playlist starts here: https://www.youtube.com/playlist?list=PLA331A6709F40B79D
 
-This project was created with IntelliJ IDEA.
+This project was built with IntelliJ.
